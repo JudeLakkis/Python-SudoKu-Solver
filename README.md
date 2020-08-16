@@ -3,9 +3,9 @@
 
 ## Aims:
 - [x] Read base case puzzle in from text file
-- [] Display board before solution is implemented
-- [] Back tracking algorithm that solves the base case puzzle
-- [] Puzzle generator
+- [ ] Display board before solution is implemented
+- [ ] Back tracking algorithm that solves the base case puzzle
+- [ ] Puzzle generator
 
 ### Side Note
 This project has been created for two purposes:
