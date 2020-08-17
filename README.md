@@ -1,4 +1,4 @@
-# Sudoku Solver
+# SudoKu Solver
 	
 **Currently Under Development**
 
