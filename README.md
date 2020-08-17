@@ -1,8 +1,5 @@
 # Sudoku Solver
 	
-	 Displayed Puzzle      | 	  Solved Puzzle
-![Displayed Puzzle](imgs/Loaded_Puzzle.png) | ![Solved Puzzle](imgs/Solved_Puzzle.png)
-
 **Currently Under Development**
 
 ## Main Aims:
@@ -12,6 +9,8 @@
 
 ## Bounus Aims:
 - [ ] Puzzle generator
+
+![Displayed Puzzle](imgs/Loaded_Puzzle.png) | ![Solved Puzzle](imgs/Solved_Puzzle.png)
 
 ### Side Note
 This project has been created for two purposes:
