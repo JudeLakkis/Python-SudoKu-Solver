@@ -1,8 +1,7 @@
 # Sudoku Solver
 	
 	 Displayed Puzzle      | 	  Solved Puzzle
-:-------------------------:|:-------------------------:
-![Displayed Puzzle](imgs/Loaded_Puzzle) | ![Solved Puzzle](imgs/Solved_Puzzle)
+![Displayed Puzzle](imgs/Loaded_Puzzle.png) | ![Solved Puzzle](imgs/Solved_Puzzle.png)
 
 **Currently Under Development**
 
