@@ -10,6 +10,7 @@
 ## Bounus Aims:
 - [ ] Puzzle generator
 
+## Solution
 ![Displayed Puzzle](imgs/Loaded_Puzzle.png) | ![Solved Puzzle](imgs/Solved_Puzzle.png)
 
 ### Side Note
