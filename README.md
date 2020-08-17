@@ -1,10 +1,17 @@
 # Sudoku Solver
+<div align='center' style="display: inline-block; margin-left: auto; margin-right: auto">
+	![Displayed Puzzle](imgs/Loaded_Puzzle)
+	![Solved Puzzle](imgs/Solved_Puzzle)
+</div>
+
 **Currently Under Development**
 
-## Aims:
+## Main Aims:
 - [x] Read base case puzzle in from text file
-- [ ] Display board before solution is implemented
-- [ ] Back tracking algorithm that solves the base case puzzle
+- [x] Display board before solution is implemented
+- [x] Back tracking algorithm that solves the base case puzzle
+
+## Bounus Aims:
 - [ ] Puzzle generator
 
 ### Side Note

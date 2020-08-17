@@ -68,9 +68,10 @@ def empty(board):
 
 
 # Main
+print('Your Puzzle:')
 print_board(board)
 solve(board)
-print('')
+print('\nSolution:')
 print_board(board)
 
 # Test Puzzle
