@@ -1,8 +1,8 @@
 # Sudoku Solver
-<div align='center' style="display: inline-block; margin-left: auto; margin-right: auto">
-	![Displayed Puzzle](imgs/Loaded_Puzzle)
-	![Solved Puzzle](imgs/Solved_Puzzle)
-</div>
+	
+	 Displayed Puzzle      | 	  Solved Puzzle
+:-------------------------:|:-------------------------:
+![Displayed Puzzle](imgs/Loaded_Puzzle) | ![Solved Puzzle](imgs/Solved_Puzzle)
 
 **Currently Under Development**
 
