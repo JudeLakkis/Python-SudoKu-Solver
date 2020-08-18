@@ -1,14 +1,9 @@
 # SudoKu Solver
 	
-**Currently Under Development**
-
 ## Main Aims:
 - [x] Read base case puzzle in from text file
 - [x] Display board before solution is implemented
 - [x] Back tracking algorithm that solves the base case puzzle
-
-## Bounus Aims:
-- [ ] Puzzle generator
 
 ## Solution
 ![Displayed Puzzle](imgs/Loaded_Puzzle.png) | ![Solved Puzzle](imgs/Solved_Puzzle.png)
